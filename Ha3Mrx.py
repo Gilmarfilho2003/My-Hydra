@@ -7,12 +7,9 @@ def restart_program():
 os.system("clear")
 os.system("figlet Gilmar Filho")
 
-print "Create By : Ha3MrX"
-print "YouTube   : https://www.youtube.com/c/HA-MRX"
+print "Create By : GilmarFilho2003"
+print "YouTube   : https://www.youtube.com/channel/UCt691e46njTLzcjSupUiO2A"
 print "github    : https://github.com/Ha3MrX"
-print "Facebook  : https://www.facebook.com/muhamad.jabar222"
-print "Website   : https://kurdkali.wordpress.com/"
-print "Twitter   : https://twitter.com/ha_mrx"
 print
 print "           [1]> Força bruta              "
 print "           [2]> DDos Attack              "
