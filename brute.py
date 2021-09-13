@@ -10,7 +10,7 @@ print
 print "  [01]> Cisco Brute Force         "
 print "  [02]> VNC Brute Force           "
 print "  [03]> FTP Brute Force           "
-print "  [04]> Gmail Brute Force         "
+print "  [04]> Força bruta do Gmail      "
 print "  [05]> SSH Brute Force           "
 print "  [06]> TeamSpeak Brute Force     "
 print "  [07]> Telnet Brute Force        "
