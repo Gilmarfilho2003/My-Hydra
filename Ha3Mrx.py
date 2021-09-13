@@ -5,7 +5,14 @@ def restart_program():
         os.execl(python, python, * sys.argv)
         curdir = os.getcwd()
 os.system("clear")
-os.system("figlet Ha3MrX")
+
+   _______ __                        _____ ____        
+  / ____(_) /___ ___  ____ ______   / __(_) / /_  ____ 
+ / / __/ / / __ `__ \/ __ `/ ___/  / /_/ / / __ \/ __ \
+/ /_/ / / / / / / / / /_/ / /     / __/ / / / / / /_/ /
+\____/_/_/_/ /_/ /_/\__,_/_/     /_/ /_/_/_/ /_/\____/ 
+                                                       
+
 print "Create By : Ha3MrX"
 print "YouTube   : https://www.youtube.com/c/HA-MRX"
 print "github    : https://github.com/Ha3MrX"
@@ -13,7 +20,7 @@ print "Facebook  : https://www.facebook.com/muhamad.jabar222"
 print "Website   : https://kurdkali.wordpress.com/"
 print "Twitter   : https://twitter.com/ha_mrx"
 print
-print "           [1]> Brute Force              "
+print "           [1]> Força bruta              "
 print "           [2]> DDos Attack              "
 print "           [3]> NMap PortScanner         "
 print "           [4]> Install Tools Hacking    "
