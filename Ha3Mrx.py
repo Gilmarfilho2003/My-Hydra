@@ -5,13 +5,16 @@ def restart_program():
         os.execl(python, python, * sys.argv)
         curdir = os.getcwd()
 os.system("clear")
-
+print('''
    _______ __                        _____ ____        
   / ____(_) /___ ___  ____ ______   / __(_) / /_  ____ 
  / / __/ / / __ `__ \/ __ `/ ___/  / /_/ / / __ \/ __ \
 / /_/ / / / / / / / / /_/ / /     / __/ / / / / / /_/ /
 \____/_/_/_/ /_/ /_/\__,_/_/     /_/ /_/_/_/ /_/\____/ 
                                                        
+	''')
+
+
 
 print "Create By : Ha3MrX"
 print "YouTube   : https://www.youtube.com/c/HA-MRX"
