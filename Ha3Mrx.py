@@ -5,7 +5,7 @@ def restart_program():
         os.execl(python, python, * sys.argv)
         curdir = os.getcwd()
 os.system("clear")
-os.system("figlet Ha3MrX")
+os.system("figlet Gilmar Filho")
 
 print "Create By : Ha3MrX"
 print "YouTube   : https://www.youtube.com/c/HA-MRX"
