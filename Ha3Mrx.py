@@ -5,7 +5,7 @@ def restart_program():
         os.execl(python, python, * sys.argv)
         curdir = os.getcwd()
 os.system("clear")
-print('''
+
    _______ __                        _____ ____        
   / ____(_) /___ ___  ____ ______   / __(_) / /_  ____ 
  / / __/ / / __ `__ \/ __ `/ ___/  / /_/ / / __ \/ __ \
